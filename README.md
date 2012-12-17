@@ -1,7 +1,7 @@
-Magneto_OrderBy
+Magento_OrderBy
 ===============
 
-Magneto  Order products By created date
+Magento  Order products By created date
 
 Sorting all product by date created.
 
